@@ -1,0 +1,10 @@
+- Styling -> TailwindCSS
+- UI library -> React
+- Zustand -> global state manager
+- Zod -> Schema & Form validation
+- Routing -> React Router
+- Forms -> React Hook forms
+- HTTP client -> Axios
+- Component library -> shad cn
+- Icons - Lucide icons
+- server state manager - Tanstack Query
