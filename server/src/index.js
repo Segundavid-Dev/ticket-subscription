@@ -3,7 +3,7 @@ import config from "./config/index.js";
 
 const startServer = async () => {
   try {
-    app.listen(config.port, () => {
+    app.listen(config.PORT, () => {
       console.log("server running...");
     });
   } catch (err) {

@@ -9,6 +9,6 @@ if (!process.env.PORT) {
 }
 
 export default {
-  port: process.env.PORT,
-  nodeEnv: process.env.NODE_ENV || "development",
+  PORT: process.env.PORT,
+  NODE_ENV: process.env.NODE_ENV || "development",
 };
